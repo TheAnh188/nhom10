@@ -1,6 +1,8 @@
 package com.example.nhom10;
 
 import jakarta.validation.constraints.NotNull;
+import com.example.nhom10.service.UserService;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
